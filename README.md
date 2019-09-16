@@ -1,7 +1,7 @@
 # pyxelGame_moguraDQ
 This is a game sample projtect of DQ taste Mogura Tataki.
 
-#Introduction
+# Introduction
 This is one of sample game for pyxel game engine.
 This is Japanese Mogura Tataki game.
 And resource file is like a DQ taste(^^;
